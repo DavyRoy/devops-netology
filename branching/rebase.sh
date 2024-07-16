@@ -7,3 +7,7 @@ for param in "$@"; do
 done
 
 echo "====="
+<<<<<<< HEAD
+=======
+
+>>>>>>> git-rebase
